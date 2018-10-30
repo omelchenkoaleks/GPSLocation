@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="action_settigns">Settings</string>
+    <string name="Hello_world">Hello world</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="Location_settings">Location settings</string>
+</resources>
